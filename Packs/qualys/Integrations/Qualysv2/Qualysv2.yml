@@ -552,7 +552,7 @@ script:
     - contextPath: Qualys.Scan.ASSET_GROUP_TITLE
       description: Target Asset Group Title.
     - contextPath: Qualys.Scan.DEFAULT_FLAG
-      description: Scan Deafualt Flag.
+      description: Scan default flag.
     - contextPath: Qualys.Scan.USER_LOGIN
       description: The user that created the scan.
     - contextPath: Qualys.Scan.ACTIVE
